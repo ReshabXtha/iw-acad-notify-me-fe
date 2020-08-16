@@ -1,3 +1,25 @@
+# Notify Me
+
+"Notify Me" is a web app for educational institutes for making announcements and organizing events.
+
+## Installation
+
+'''bash
+git clone [repository url]
+cd [local repository]
+npm install
+npm start
+'''
+
+## Team
+
+###### Team Spring
+
+## Members
+
+* Ayush Acharya ayush.acharya96@gmail.com
+* Reshab Shrestha Reshab.xtha@gmail.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

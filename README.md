@@ -4,12 +4,12 @@
 
 ## Installation
 
-'''bash
+```bash
 git clone [repository url]
 cd [local repository]
 npm install
 npm start
-'''
+```
 
 ## Team
 

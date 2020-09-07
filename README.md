@@ -1,4 +1,4 @@
-# Notify Me
+npm # Notify Me
 
 "Notify Me" is a web app for educational institutes for making announcements and organizing events.
 

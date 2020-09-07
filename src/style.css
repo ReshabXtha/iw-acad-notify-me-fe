@@ -1,0 +1,27 @@
+.ui.vertical.menu {
+    width: 20rem;
+    margin: 10px;
+    display: inline-block;
+}
+.ui.menu .item {
+    line-height: 3;
+}
+.ui.menu .active.item {
+    font-weight: 900;
+}
+.active.item{
+    font-size:20px;
+}
+
+.ui.avatar.image{
+    width: 3em;
+    height: 3em;
+}
+.Profileavatar{
+    float: right;
+    margin: 5px;
+}
+#mainview{
+    padding: 36px;
+    margin: -250px;
+}
